@@ -1,3 +1,14 @@
+//nouveaux cmd
 npm i -s mongoose
 npm i -s body-parser
 npm i -s cors
+
+//pour installer ce projet , voici l'etape
+
+cmd :
+npm install
+ -------------//--------
+ il faut avoir mongodb sur local
+ Dans le repertoire models : 
+ dgConfig.js
+ node-api :  c'est le nom de ma base de données local
